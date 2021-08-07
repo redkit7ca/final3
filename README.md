@@ -1,1 +1,1 @@
-# Jenkins creates image when push the remote jenkins repo
+# Jenkins creates image when push the remote repo
